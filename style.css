@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    margin-top: 50px;
+  }
+  
+  form {
+    margin-top: 50px;
+  }
+  
+  label {
+    display: inline-block;
+    text-align: left;
+    width: 100px;
+  }
+  
+  input[type="submit"] {
+    margin-top: 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
+  
+  input[type="submit"]:hover {
+    background-color: #3e8e41;
+  }
+  
+  input[type="time"] {
+    width: 120px;
+  }
+  
